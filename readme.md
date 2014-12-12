@@ -3,9 +3,9 @@ Scrolline.js
 
 A jQuery plugin. Create a scroll line bar indicator on the page.
 
-## Demonstrations
+## Demonstration
 
-* [Demonstration](http://anthonyly.com/scrolline)
+* [Anthonyly.com/jquery.plugins/scrolline](http://anthonyly.com/jquery.plugins/scrolline)
 
 ## Documentation
 
